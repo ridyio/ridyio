@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ridyio
 - 👀 I’m interested in First mastering at what i know and at spare times learn new Techs.
 - 🌱 I'm currently learning React
-- 🖥 I’m currently working on projects using Node.js, Nest.js, Graphql, Angular, iOS's Swift & Android's Kotlin
+- 🖥 I’m currently working on projects using Node.js, Nest.js, Graphql, Angular, Flutter, iOS's Swift & Android's Kotlin
 - 📫 How to reach me ridy.dev@gmail.com
